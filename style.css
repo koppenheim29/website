@@ -1,0 +1,146 @@
+
+/* Website Styles */
+*{
+  font-size: 100%;
+  margin: 1%;
+  line-height: 1;
+  box-sizing: border-box;
+   */
+}
+.title {
+  font-size: 36px;
+  text-center: align;
+}
+
+.right{
+  float: right;
+}
+.left{
+  float: left;
+}
+nav{
+  background: #594848;
+  width: 100%;
+  overflow: auto;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li{
+  float: left;
+}
+
+  margin}
+img {
+  width: 250px;
+  height: 200px;
+}
+
+p {
+  font-size: 24px;
+  margin: 10px 0;
+}
+ul, ol {
+  margin: 15px 0;
+}
+
+header,
+section,
+footer {
+  border: 20px solid Sienna;
+  background-color: gainsboro;
+  margin: 0 auto;
+  padding: 0px;
+  width: 90%;
+  height: 90%;
+}
+
+header {
+  border bottom: 5px solid black;
+}
+
+
+body {
+  text align: center;
+  line-height: 2;
+  font-size: 14px;
+  background-color: Darkgray;
+  color: black;
+  font-family: 'Rokkitt', serif;
+  margin: o auto;
+  background-image: url(images/pattern.png);
+  background-repeat: repeat;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+h2 {font-size: 30px;
+  font-weight: 700;
+  font-style: italic;
+}
+h3 {
+  font-size: 26px;
+}
+.banner1 {
+  height: 350px;
+  background-image: url("images/myhome.jpg");
+  background-size: cover;
+  background-position: center;
+}
+h1, h2, h3 {
+  font-weight: lighter;
+  font-style: italic;
+  text-align: center;
+  color: black;
+}
+.banner2 {
+  height: 350px;
+  background-image: url("images/winterhome.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.title-box {
+  background-color: DarkCyan;
+}
+.container1,.container2 {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: #f2f2f2;
+  overflow: auto;
+}
+.gallery {
+  margin: 5px;
+  border: 0;
+  float: left;
+  width: 390px;
+  height: 500;
+}
+.gallery img{
+  width: 100%;
+  height: auto;
+}
+.desc{
+  padding: 15px;
+  text-align: center;
+}
+a{
+  color:MediumSeaGreen;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/*Made by Kathy Oppenheim*/
+
+p {
+  line-height: 2;
+}
